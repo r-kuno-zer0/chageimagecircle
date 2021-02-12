@@ -1,0 +1,8 @@
+{
+  "name": "change-image-circle",
+  "version": "1.0.0",
+  "bin":{
+    "chage-image-circle": "index.js"
+  },
+  "license": "MIT"
+}
